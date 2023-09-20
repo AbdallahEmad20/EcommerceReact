@@ -1,19 +1,154 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+    "products": [
+        {"id":1,
+        "title":"Super Low Waist Jeans",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing ","image":"/Images/blog-home-3.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+
+        {"id":2,
+        "title":"Boxy Denim Shirt",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing ","image":"/Images/0248251428_2_3_3_1024x1024@2x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+
+        {"id":3,
+        "title":"   Wool Blend Oversized Sweater",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"womans's clothing ","image":"/Images/Layer-134_540x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":4,
+        "title":"Linen Wide Leg Pants",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing","image":"/Images/6350552300_1_1_1-1_540x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+        
+        {"id":5,
+        "title":"Rib Knitted Trumpet Sleeve Dress",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing","image":"/Images/sggweater-1-1_540x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":6,
+        "title":"Deep Back Stripe Top",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing","image":"/Images/t-shirtvbvv1-1_540x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+    
+        {"id":7,
+        "title":"Denim Maxi Skirt",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"womans's clothing","image":"/Images/5576660812_1_1_1_b8284903-7788-4752-ac0c-e2728e364b75_1024x1024@2x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":8,
+        "title":"Low Waist Pocket Detail Jeans",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing","image":"/Images/team2.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":9,
+        "title":"Roll Neck Sleeveless Top",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"womans's clothing","image":"/Images/5814619742_1_1_1_fb5007b1-b424-4ed0-8556-06ea1c2ac9f1_1024x1024@2x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+
+        {"id":10,
+        "title":"Wool Blend Oversized V-neck Cardigan",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing","image":"/Images/Layer-141-1000x1280_540x (1).jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":11,
+        "title":"Ribbed Knitted Round Neck Sweater",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing","image":"/Images/shirts1-xcx1_540x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":12,
+        "title":"Straight High Waist Cropped Jeans",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"womans's clothing","image":"/Images/6703777712_2_2_3_1024x1024@2x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":13,
+        "title":"Fjallraven-Foldsack No.1  Backpack , Fits 15",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"womans's clothing ","image":"/Images/team1.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":14,
+        "title":"Fjallraven-Foldsack No.1 Backpack , Fits 15",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing "
+        ,"image":"/Images/t-shirt5w4_1024x1024@2x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":15,
+        "title":"Fjallraven-Foldsack No.1 Backpack , Fits 15",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing ","image":"/Images/Layer-14-2_360x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
+    },
+
+        {"id":16,
+        "title":"Fjallraven-Foldsack No.1 Backpack , Fits 15",
+        "price":109.95,
+        "description":" Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa nisi eaque molestiae repudiandae voluptas tempora, rem illo officiis dignissimos laboriosam accusamus voluptate facilis repellat placeat ratione vero qui laudantium natus hic sunt repellendus quam. Optio quos fugiat exercitationem doloribus hic",
+        "category":"men's clothing ","image":"/Images/0150220428_2_3_3_1024x1024@2x.jpg",
+        "rating":{"rate":3.9,"count":120}
+      
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+
+
+    ]
+    
   }
-}
